@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaiThucHanh1Online</string>
+    <string name="input_username">Input username</string>
+    <string name="input_password">Input password</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="sign_up">Sign Up For Facebook</string>
+</resources>
